@@ -2,6 +2,7 @@
 A library of string reversal code
 
 Language : Algorithm styles
+
 | Language   | Any       | Space-Efficient | Time-Efficient | One-Liner | Fewest Symbols | Hard To Read | Most Verbose |
 |------------|-----------|-----------------|----------------|-----------|----------------|--------------|--------------|
 | C#         |           |                 |                |           |                |              |              |
