@@ -11,7 +11,7 @@ Language : Algorithm styles
 | Elisp      |           |                 |                |           |                |              |              |
 | Python     |           |                 |                |           |                |              |              |
 | Ruby       |           |                 |                |           |                |              |              |
-| PHP        |           |                 |                |           |                |              |              |
-|            |           |                 |                |           |                |              |              |
+| PHP        |  X        |  X              |                |           |                |              |              |
+| VBA        |  X        |  X              |                |           |                |              |              |
 
 Feel free to pull request your own examples of string-reversal in any language! Update the readme!
