@@ -6,8 +6,8 @@ Language : Algorithm styles
 | Language   | Any       | Space-Efficient | Time-Efficient | One-Liner | Fewest Symbols | Hard To Read | Most Verbose |
 |------------|-----------|-----------------|----------------|-----------|----------------|--------------|--------------|
 | C#         | X         |                 |                |           |                | X            |              |
-| JavaScript |           |                 |                |           |                |              |              |
-| Java       |           |  X              |                |           |                |              |              |
+| JavaScript | X         |                 |                |           |                | X            |              |
+| Java       | X         |  x              |                |           |                |              |              |
 | C++        |           |                 |                |           |                |              |              |
 | Elisp      |           |                 |                |           |                |              |              |
 | Python     |           |                 |                |           |                |              |              |
