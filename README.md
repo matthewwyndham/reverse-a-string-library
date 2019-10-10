@@ -11,7 +11,7 @@ Language : Algorithm styles
 | C++        |           |                 |                |           |                |              |              |
 | Elisp      |           |                 |                |           |                |              |              |
 | Python     |           |                 |                |           |                |              |              |
-| Ruby       |           |                 |                |           |                |              |              |
+| Ruby       |  X        |                 |                |           |                |              |              |
 | PHP        |  X        |  X              |                |           |                |              |              |
 | VBA        |  X        |  X              |                |           |                |              |              |
 
