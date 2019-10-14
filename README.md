@@ -5,10 +5,10 @@ Language : Algorithm styles
 
 | Language   | Any       | Space-Efficient | Time-Efficient | One-Liner | Fewest Symbols | Hard To Read | Most Verbose |
 |------------|-----------|-----------------|----------------|-----------|----------------|--------------|--------------|
-| C#         | X         |                 |                |           |                | X            |              |
-| JavaScript | X         |                 |                |           |                | X            |              |
-| Java       | X         |  x              |                |           |                |              |              |
-| C++        |           |                 |                |           |                |              |              |
+| C#         |  X        |                 |                |           |                |  X           |              |
+| JavaScript |  X        |                 |                |           |                |  X           |              |
+| Java       |  X        |  X              |                |           |                |              |              |
+| C++        |  X        |                 |                |           |                |              |              |
 | Elisp      |           |                 |                |           |                |              |              |
 | Python     |           |                 |                |           |                |              |              |
 | Ruby       |  X        |                 |                |           |                |              |              |
